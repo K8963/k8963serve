@@ -1,0 +1,26 @@
+{
+  "name": "k8963server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "boom": "^7.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-jwt": "^6.1.0",
+    "express-validator": "^6.12.1",
+    "jsonwebtoken": "^8.5.1",
+    "marked": "^3.0.4",
+    "mo": "^1.7.3",
+    "mongoose": "^6.0.5",
+    "ngoose": "^1.1.1",
+    "silly-datetime": "^0.1.2"
+  }
+}
